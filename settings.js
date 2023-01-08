@@ -9,8 +9,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU
-global.ownerNumber = ['6281540022632','6281540022632'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
-global.Rowner = '6281540022632' //Owner Utama
+global.ownerNumber = ['6285803583481','6285803583481'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
+global.Rowner = '6285803583481' //Owner Utama
 global.ownerName = 'Nzrl Afndi' //Ganti Jadi Namamu
 global.packname = 'Subscribe YT' //Ganti Jadi Nama Botmu
 global.author = 'NZRLAFNDI' //Ganti Jadi Namamu
