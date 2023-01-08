@@ -23,8 +23,8 @@
   "author": "Fandyyy",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "latest",
-    "@adiwajshing/keyed-db": "latest",
+    "@adiwajshing/baileys": "^4.4.0",
+    "@adiwajshing/keyed-db": "^4.4.0",
     "@bochilteam/scraper": "^3.0.0",
     "@hapi/boom": "^10.0.0",
     "awesome-phonenumber": "^2.64.0",
